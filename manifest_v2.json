@@ -1,0 +1,91 @@
+{
+  "item": {
+    "id": "com.hazenotea.sheepmatch.watch",
+    "restype": "quick_app",
+    "name": "羊了个羊",
+    "description": "完全免费。由HazeNoTea制作的经典羊了个羊游戏。\n\n点击三个一样的卡片即可消除，快来一起拯救羊群吧！\n\n不同设备性能表现不同，实测RW6、米环10Pro、10可以享受丝滑的动画，米环9Pro、9有点卡，建议关闭动画。",
+    "preview": [
+      "media/封面.png",
+      "media/宣传图_1.png",
+      "media/宣传图_2.png",
+      "media/宣传图_3.png"
+    ],
+    "icon": "media/方logo.png",
+    "cover": "media/封面.png",
+    "author": [
+      {
+        "name": "HazeNoTea",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sheepmatch.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
